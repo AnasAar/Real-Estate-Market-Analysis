@@ -1,0 +1,709 @@
+,type,nom_commune,code_departement,prix,numberOfGuests,rating
+0,1,Paris 20e Arrondissement,75,992,2,4.5
+1,1,Fontenay-sous-Bois,94,962,2,4.5
+2,2,Chennevières-sur-Marne,94,668,15,5.0
+3,1,Paris 18e Arrondissement,75,906,1,4.5
+4,1,Paris 13e Arrondissement,75,590,2,4.5
+5,2,Chennevières-sur-Marne,94,684,12,5.0
+6,1,Paris 10e Arrondissement,75,991,2,4.5
+7,2,Paris 11e Arrondissement,75,736,16,5.0
+8,1,Épinay-sur-Seine,93,548,2,4.5
+9,1,Paris 10e Arrondissement,75,991,2,4.0
+10,1,Paris 10e Arrondissement,75,991,3,4.5
+11,1,Paris 18e Arrondissement,75,992,4,4.5
+12,1,Paris 15e Arrondissement,75,646,2,4.5
+13,1,Paris 10e Arrondissement,75,991,3,4.5
+14,2,Paris 10e Arrondissement,75,991,4,4.5
+15,2,Paris 16e Arrondissement,75,872,2,4.5
+16,2,Paris 17e Arrondissement,75,702,2,4.5
+17,1,Paris 16e Arrondissement,75,555,3,4.5
+18,1,Paris 11e Arrondissement,75,595,3,4.5
+19,1,Paris 9e Arrondissement,75,624,4,4.5
+20,1,Gentilly,94,555,8,4.5
+21,1,Paris 16e Arrondissement,75,1141,1,4.5
+22,1,Paris 5e Arrondissement,75,654,2,4.5
+23,2,Paris 19e Arrondissement,75,1200,8,4.5
+24,2,Paris 16e Arrondissement,75,695,2,5.0
+25,1,Paris 15e Arrondissement,75,666,4,4.5
+26,1,Paris 5e Arrondissement,75,679,2,5.0
+27,2,Suresnes,92,1019,2,4.5
+28,1,Paris 16e Arrondissement,75,721,2,4.5
+29,2,Nogent-sur-Marne,94,1358,5,4.5
+30,2,Rosny-sous-Bois,93,1132,2,4.5
+31,2,Clamart,92,1178,4,4.5
+32,1,Paris 8e Arrondissement,75,849,4,4.5
+33,1,Paris 3e Arrondissement,75,611,2,4.5
+34,1,Paris 9e Arrondissement,75,1433,4,4.5
+35,1,Paris 10e Arrondissement,75,1075,2,4.5
+36,2,Bonneuil-sur-Marne,94,1059,16,4.5
+37,2,Clamart,92,1390,16,4.5
+38,1,Paris 16e Arrondissement,75,1190,6,4.5
+39,1,Paris 8e Arrondissement,75,984,2,4.5
+40,1,Paris 7e Arrondissement,75,784,2,4.5
+41,1,Paris 3e Arrondissement,75,666,2,4.5
+42,2,Cormeilles-en-Parisis,95,1564,10,4.5
+43,1,Paris 7e Arrondissement,75,1379,2,4.5
+44,1,Paris 6e Arrondissement,75,535,4,4.5
+45,1,Paris 8e Arrondissement,75,1041,4,4.5
+46,1,Paris 16e Arrondissement,75,816,2,4.5
+47,1,Paris 16e Arrondissement,75,826,2,4.5
+48,1,Paris 18e Arrondissement,75,1095,3,4.5
+49,2,Bagneux,92,1309,16,5.0
+50,1,Paris 8e Arrondissement,75,814,4,4.5
+51,1,Paris 7e Arrondissement,75,783,4,4.5
+52,1,Paris 8e Arrondissement,75,1140,4,4.5
+53,1,Paris 8e Arrondissement,75,1176,2,4.5
+54,1,Paris 4e Arrondissement,75,1170,4,4.5
+55,2,Malakoff,92,1081,16,5.0
+56,2,Paris 8e Arrondissement,75,1116,4,4.5
+57,2,Puteaux,92,1461,10,5.0
+58,2,Paris 9e Arrondissement,75,1381,10,5.0
+59,2,Paris 15e Arrondissement,75,1414,12,5.0
+60,1,Paris 1er Arrondissement,75,633,2,4.5
+61,1,Paris 8e Arrondissement,75,547,2,4.5
+62,1,Paris 5e Arrondissement,75,618,2,4.5
+63,1,Paris 2e Arrondissement,75,513,3,4.5
+64,1,Paris 8e Arrondissement,75,595,2,4.5
+65,1,Paris 8e Arrondissement,75,519,4,5.0
+66,1,Paris 8e Arrondissement,75,528,4,4.5
+67,1,Paris 9e Arrondissement,75,574,4,4.5
+68,1,Paris 8e Arrondissement,75,883,4,4.5
+69,1,Paris 3e Arrondissement,75,579,2,5.0
+70,1,Paris 16e Arrondissement,75,590,2,4.5
+71,1,Paris 9e Arrondissement,75,588,5,4.5
+72,1,Paris 8e Arrondissement,75,559,4,4.5
+73,1,Paris 9e Arrondissement,75,556,2,4.5
+74,1,Paris 6e Arrondissement,75,897,16,4.5
+75,1,Paris 10e Arrondissement,75,624,2,5.0
+76,1,Paris 4e Arrondissement,75,635,4,4.5
+77,2,Paris 19e Arrondissement,75,851,6,4.5
+78,1,Paris 5e Arrondissement,75,546,4,4.5
+79,2,Paris 11e Arrondissement,75,662,6,4.5
+80,1,Paris 15e Arrondissement,75,614,2,4.5
+81,1,Paris 3e Arrondissement,75,798,4,5.0
+82,2,Paris 8e Arrondissement,75,655,6,5.0
+83,1,Paris 1er Arrondissement,75,572,2,4.5
+84,2,Paris 3e Arrondissement,75,895,10,5.0
+85,2,Paris 10e Arrondissement,75,660,6,5.0
+86,2,Paris 8e Arrondissement,75,2410,12,4.5
+87,1,Paris 7e Arrondissement,75,1984,2,4.5
+88,1,Paris 7e Arrondissement,75,1984,2,4.5
+89,1,Paris 7e Arrondissement,75,1984,2,4.5
+90,2,Argenteuil,95,1515,10,4.5
+91,1,Paris 8e Arrondissement,75,1959,2,4.5
+92,2,Le Plessis-Trévise,94,2490,9,5.0
+93,2,Yerres,91,2288,16,5.0
+94,1,Paris 1er Arrondissement,75,644,5,4.5
+95,2,Longjumeau,91,3984,3,4.5
+96,2,Soisy-sur-Seine,91,3489,13,4.5
+97,0,Puteaux,92,355,2,5.0
+98,1,Paris 8e Arrondissement,75,286,2,5.0
+99,1,Paris 8e Arrondissement,75,274,2,5.0
+100,1,Paris 17e Arrondissement,75,281,2,5.0
+101,1,Paris 8e Arrondissement,75,262,2,4.5
+102,1,Paris 10e Arrondissement,75,320,3,4.0
+103,1,Paris 8e Arrondissement,75,427,2,4.5
+104,2,Paris 7e Arrondissement,75,329,4,4.5
+105,1,Paris 9e Arrondissement,75,502,2,4.5
+106,1,Paris 17e Arrondissement,75,396,2,4.5
+107,1,Paris 6e Arrondissement,75,445,2,4.5
+108,1,Paris 11e Arrondissement,75,267,2,4.5
+109,1,Paris 13e Arrondissement,75,284,3,4.5
+110,1,Paris 8e Arrondissement,75,463,2,4.5
+111,1,Paris 9e Arrondissement,75,383,3,5.0
+112,2,Paris 4e Arrondissement,75,362,4,1.5
+113,1,Paris 9e Arrondissement,75,342,2,4.0
+114,1,Paris 15e Arrondissement,75,323,2,4.5
+115,1,Paris 2e Arrondissement,75,269,2,4.0
+116,1,Paris 14e Arrondissement,75,322,2,4.5
+117,1,Paris 1er Arrondissement,75,349,2,4.5
+118,1,Paris 15e Arrondissement,75,327,2,4.5
+119,1,Paris 15e Arrondissement,75,428,6,4.5
+120,1,Paris 8e Arrondissement,75,397,1,4.5
+121,1,Paris 6e Arrondissement,75,287,2,4.5
+122,1,Paris 2e Arrondissement,75,336,2,4.5
+123,1,Paris 10e Arrondissement,75,386,1,4.5
+124,1,Paris 1er Arrondissement,75,419,2,5.0
+125,1,Paris 4e Arrondissement,75,262,2,4.0
+126,1,Paris 6e Arrondissement,75,353,2,4.5
+127,1,Paris 15e Arrondissement,75,273,2,4.5
+128,1,Paris 8e Arrondissement,75,393,2,4.5
+129,1,Paris 5e Arrondissement,75,466,4,4.5
+130,1,Paris 8e Arrondissement,75,316,2,4.5
+131,1,Paris 10e Arrondissement,75,271,2,4.5
+132,1,Paris 18e Arrondissement,75,374,2,4.5
+133,1,Paris 8e Arrondissement,75,452,2,4.5
+134,1,Paris 8e Arrondissement,75,398,2,4.5
+135,1,Paris 3e Arrondissement,75,266,2,4.5
+136,1,Paris 17e Arrondissement,75,268,2,4.5
+137,1,Paris 16e Arrondissement,75,416,4,4.5
+138,1,Paris 17e Arrondissement,75,268,2,4.5
+139,1,Paris 10e Arrondissement,75,317,3,4.5
+140,1,Paris 6e Arrondissement,75,336,2,4.5
+141,1,Paris 17e Arrondissement,75,396,2,4.5
+142,1,Paris 15e Arrondissement,75,338,2,4.5
+143,1,Paris 8e Arrondissement,75,406,2,4.5
+144,1,Paris 1er Arrondissement,75,338,2,4.0
+145,1,Paris 17e Arrondissement,75,491,4,4.5
+146,1,Paris 9e Arrondissement,75,366,2,4.5
+147,1,Paris 2e Arrondissement,75,380,2,4.5
+148,1,Paris 5e Arrondissement,75,382,2,4.5
+149,1,Paris 1er Arrondissement,75,371,2,4.5
+150,1,Paris 18e Arrondissement,75,441,2,4.5
+151,1,Paris 1er Arrondissement,75,478,2,4.5
+152,1,Paris 18e Arrondissement,75,508,2,4.5
+153,1,Saint-Cloud,92,329,2,4.5
+154,1,Paris 8e Arrondissement,75,425,2,4.5
+155,1,Paris 1er Arrondissement,75,433,2,4.5
+156,1,Paris 9e Arrondissement,75,369,2,4.5
+157,1,Paris 5e Arrondissement,75,279,2,4.5
+158,1,Paris 9e Arrondissement,75,491,2,4.5
+159,1,Paris 10e Arrondissement,75,297,4,4.5
+160,1,Paris 1er Arrondissement,75,378,2,4.5
+161,1,Paris 1er Arrondissement,75,458,2,4.5
+162,1,Paris 14e Arrondissement,75,350,2,4.5
+163,1,Paris 12e Arrondissement,75,359,4,5.0
+164,1,Paris 14e Arrondissement,75,283,4,4.5
+165,1,Paris 1er Arrondissement,75,435,2,4.5
+166,1,Paris 4e Arrondissement,75,329,2,4.5
+167,1,Paris 8e Arrondissement,75,356,2,4.5
+168,1,Paris 7e Arrondissement,75,389,2,4.5
+169,1,Paris 2e Arrondissement,75,320,2,4.5
+170,1,Paris 10e Arrondissement,75,274,4,4.5
+171,1,Paris 8e Arrondissement,75,415,2,4.5
+172,1,Paris 16e Arrondissement,75,410,2,4.5
+173,1,Paris 6e Arrondissement,75,447,2,4.5
+174,1,Paris 1er Arrondissement,75,369,2,4.5
+175,1,Paris 5e Arrondissement,75,276,1,4.5
+176,1,Paris 8e Arrondissement,75,443,2,4.5
+177,1,Paris 6e Arrondissement,75,336,2,4.5
+178,1,Paris 9e Arrondissement,75,505,3,4.5
+179,1,Paris 16e Arrondissement,75,298,2,5.0
+180,1,Paris 15e Arrondissement,75,391,2,4.5
+181,1,Paris 2e Arrondissement,75,290,3,4.5
+182,1,Paris 9e Arrondissement,75,376,2,4.5
+183,0,Asnières-sur-Seine,92,348,2,5.0
+184,1,Paris 9e Arrondissement,75,465,3,4.5
+185,1,Paris 8e Arrondissement,75,395,1,4.5
+186,2,Paris 18e Arrondissement,75,386,4,4.5
+187,1,Paris 9e Arrondissement,75,423,2,4.5
+188,2,Maisons-Alfort,94,294,2,5.0
+189,1,Paris 16e Arrondissement,75,482,3,4.5
+190,1,Paris 11e Arrondissement,75,395,4,4.5
+191,2,Paris 19e Arrondissement,75,264,4,4.5
+192,1,Paris 6e Arrondissement,75,336,2,4.5
+193,1,Paris 2e Arrondissement,75,270,2,4.5
+194,1,Paris 9e Arrondissement,75,346,5,4.5
+195,1,Paris 17e Arrondissement,75,273,3,4.5
+196,1,Paris 14e Arrondissement,75,285,2,4.5
+197,1,Paris 9e Arrondissement,75,356,2,4.5
+198,1,Paris 15e Arrondissement,75,389,4,4.5
+199,1,Paris 9e Arrondissement,75,290,2,4.0
+200,1,Paris 5e Arrondissement,75,359,2,4.5
+201,1,Paris 11e Arrondissement,75,316,3,5.0
+202,1,Paris 8e Arrondissement,75,330,2,5.0
+203,1,Paris 9e Arrondissement,75,360,2,4.5
+204,1,Paris 16e Arrondissement,75,432,2,5.0
+205,1,Paris 1er Arrondissement,75,307,2,4.5
+206,2,Ville-d'Avray,92,312,2,5.0
+207,1,Paris 5e Arrondissement,75,371,2,5.0
+208,1,Paris 17e Arrondissement,75,380,1,4.5
+209,1,Paris 14e Arrondissement,75,344,2,4.5
+210,1,Paris 9e Arrondissement,75,386,2,5.0
+211,1,Paris 16e Arrondissement,75,400,2,5.0
+212,2,Paris 9e Arrondissement,75,267,2,4.5
+213,1,Paris 8e Arrondissement,75,425,2,4.5
+214,1,Paris 4e Arrondissement,75,286,2,4.5
+215,2,Paris 4e Arrondissement,75,293,2,4.0
+216,1,Paris 9e Arrondissement,75,409,3,4.5
+217,2,Paris 4e Arrondissement,75,327,2,4.0
+218,1,Paris 8e Arrondissement,75,355,2,5.0
+219,1,Paris 8e Arrondissement,75,297,3,4.5
+220,1,Paris 17e Arrondissement,75,436,1,4.5
+221,1,Paris 5e Arrondissement,75,421,2,4.5
+222,1,Paris 15e Arrondissement,75,327,2,5.0
+223,1,Paris 15e Arrondissement,75,337,2,4.5
+224,1,Paris 17e Arrondissement,75,349,2,4.5
+225,1,Paris 5e Arrondissement,75,404,2,5.0
+226,2,Paris 18e Arrondissement,75,335,2,5.0
+227,1,Paris 17e Arrondissement,75,436,1,5.0
+228,1,Paris 16e Arrondissement,75,360,4,4.5
+229,2,Paris 16e Arrondissement,75,470,6,5.0
+230,1,Paris 8e Arrondissement,75,400,2,4.5
+231,1,Paris 8e Arrondissement,75,446,2,4.5
+232,1,Paris 8e Arrondissement,75,378,2,4.5
+233,1,Paris 16e Arrondissement,75,316,2,4.5
+234,1,Paris 1er Arrondissement,75,370,2,5.0
+235,1,Paris 2e Arrondissement,75,344,2,4.5
+236,1,Paris 1er Arrondissement,75,396,3,4.5
+237,1,Paris 15e Arrondissement,75,340,2,5.0
+238,2,Paris 12e Arrondissement,75,334,2,5.0
+239,1,Paris 3e Arrondissement,75,297,2,5.0
+240,1,Paris 5e Arrondissement,75,493,2,4.5
+241,1,Paris 9e Arrondissement,75,323,2,5.0
+242,1,Paris 8e Arrondissement,75,268,1,3.5
+243,1,Paris 9e Arrondissement,75,410,3,5.0
+244,1,Paris 5e Arrondissement,75,290,2,4.5
+245,1,Paris 3e Arrondissement,75,491,2,5.0
+246,1,Paris 8e Arrondissement,75,436,2,4.5
+247,2,Courbevoie,92,340,5,5.0
+248,1,Paris 16e Arrondissement,75,336,2,5.0
+249,1,Paris 4e Arrondissement,75,405,3,4.5
+250,1,Paris 2e Arrondissement,75,262,2,4.5
+251,1,Paris 3e Arrondissement,75,286,2,4.5
+252,1,Paris 15e Arrondissement,75,366,2,4.5
+253,1,Paris 15e Arrondissement,75,304,2,4.5
+254,1,Paris 9e Arrondissement,75,340,2,5.0
+255,1,Paris 11e Arrondissement,75,266,2,5.0
+256,1,Paris 1er Arrondissement,75,426,2,4.5
+257,1,Paris 9e Arrondissement,75,380,2,4.0
+258,1,Paris 9e Arrondissement,75,302,2,4.5
+259,1,Paris 5e Arrondissement,75,349,2,5.0
+260,1,Paris 7e Arrondissement,75,387,2,5.0
+261,1,Paris 2e Arrondissement,75,447,3,5.0
+262,1,Paris 9e Arrondissement,75,469,2,5.0
+263,2,Paris 11e Arrondissement,75,441,4,4.5
+264,2,Paris 2e Arrondissement,75,462,6,4.5
+265,2,Paris 16e Arrondissement,75,359,2,4.5
+266,2,Paris 2e Arrondissement,75,307,4,4.5
+267,1,Paris 9e Arrondissement,75,302,4,4.5
+268,1,Paris 1er Arrondissement,75,356,2,4.5
+269,1,Paris 3e Arrondissement,75,334,2,4.5
+270,1,Paris 10e Arrondissement,75,329,2,4.5
+271,1,Paris 6e Arrondissement,75,491,4,5.0
+272,1,Paris 9e Arrondissement,75,286,2,5.0
+273,1,Paris 16e Arrondissement,75,277,2,4.5
+274,1,Paris 1er Arrondissement,75,327,2,4.5
+275,2,Paris 2e Arrondissement,75,307,4,4.0
+276,1,Paris 6e Arrondissement,75,467,2,4.5
+277,1,Paris 15e Arrondissement,75,330,2,4.5
+278,2,Paris 9e Arrondissement,75,416,8,4.5
+279,1,Paris 7e Arrondissement,75,335,2,4.5
+280,1,Paris 5e Arrondissement,75,345,2,5.0
+281,1,Paris 1er Arrondissement,75,344,2,5.0
+282,1,Paris 8e Arrondissement,75,386,2,5.0
+283,1,Paris 8e Arrondissement,75,292,2,5.0
+284,1,Paris 14e Arrondissement,75,272,2,5.0
+285,1,Paris 8e Arrondissement,75,313,4,5.0
+286,2,Paris 4e Arrondissement,75,467,2,4.5
+287,1,Paris 5e Arrondissement,75,336,2,5.0
+288,2,Paris 16e Arrondissement,75,418,4,4.5
+289,1,Paris 2e Arrondissement,75,377,2,5.0
+290,1,Paris 7e Arrondissement,75,435,2,5.0
+291,2,Paris 8e Arrondissement,75,369,4,4.5
+292,1,Paris 9e Arrondissement,75,262,2,5.0
+293,1,Paris 8e Arrondissement,75,341,2,5.0
+294,1,Paris 7e Arrondissement,75,302,2,4.5
+295,2,Paris 2e Arrondissement,75,497,8,5.0
+296,2,Paris 1er Arrondissement,75,484,6,4.5
+297,1,Paris 5e Arrondissement,75,327,2,5.0
+298,1,Paris 2e Arrondissement,75,377,2,5.0
+299,2,Paris 2e Arrondissement,75,502,4,4.5
+300,2,Paris 5e Arrondissement,75,397,4,5.0
+301,2,Paris 2e Arrondissement,75,317,4,4.5
+302,2,Paris 6e Arrondissement,75,382,4,4.5
+303,2,Paris 15e Arrondissement,75,509,4,5.0
+304,1,Paris 10e Arrondissement,75,991,2,4.0
+305,1,Paris 10e Arrondissement,75,991,2,4.5
+306,1,Paris 16e Arrondissement,75,744,2,4.5
+307,1,Paris 10e Arrondissement,75,1190,2,4.5
+308,1,Paris 11e Arrondissement,75,99,4,5.0
+309,2,Saint-Denis,93,46,1,5.0
+310,1,Paris 20e Arrondissement,75,74,1,4.5
+311,2,Pantin,93,90,2,4.5
+312,1,Choisy-le-Roi,94,72,2,4.5
+313,1,Paris 19e Arrondissement,75,122,1,4.5
+314,1,Courbevoie,92,57,1,4.5
+315,2,Neuilly-Plaisance,93,89,2,5.0
+316,2,Puteaux,92,110,2,4.5
+317,1,Paris 19e Arrondissement,75,46,1,4.0
+318,1,Issy-les-Moulineaux,92,118,1,4.5
+319,1,Bois-Colombes,92,45,1,5.0
+320,2,Créteil,94,119,2,5.0
+321,1,Paris 19e Arrondissement,75,122,1,4.5
+322,2,Noisy-le-Grand,93,61,1,5.0
+323,1,Paris 19e Arrondissement,75,49,1,4.0
+324,1,Asnières-sur-Seine,92,45,1,5.0
+325,1,Athis-Mons,91,51,2,4.0
+326,2,Jouy-en-Josas,78,91,2,5.0
+327,1,Colombes,92,40,1,5.0
+328,1,Colombes,92,64,1,4.5
+329,2,Montgeron,91,77,4,5.0
+330,2,Villebon-sur-Yvette,91,63,1,5.0
+331,1,Paris 8e Arrondissement,75,341,2,4.5
+332,1,Charenton-le-Pont,94,199,2,5.0
+333,1,Rueil-Malmaison,92,75,2,5.0
+334,2,Saint-Denis,93,163,4,4.5
+335,1,Rungis,94,60,1,5.0
+336,1,Gagny,93,40,1,5.0
+337,1,Saint-Denis,93,124,2,4.0
+338,1,Massy,91,109,2,4.0
+339,1,Courbevoie,92,130,4,4.5
+340,2,Orly,94,134,4,4.5
+341,1,Verrières-le-Buisson,91,68,1,5.0
+342,1,Nanterre,92,54,1,4.5
+343,1,Tremblay-en-France,93,90,2,3.5
+344,1,Bobigny,93,23,1,4.0
+345,2,Longjumeau,91,107,2,4.5
+346,2,Arcueil,94,154,4,4.5
+347,2,Vitry-sur-Seine,94,99,2,4.5
+348,1,Colombes,92,94,2,5.0
+349,2,Yerres,91,68,2,4.5
+350,2,Boulogne-Billancourt,92,204,4,4.5
+351,2,Massy,91,104,2,4.5
+352,1,Maisons-Laffitte,78,85,2,4.5
+353,1,Sarcelles,95,33,2,4.0
+354,1,Bobigny,93,22,1,4.0
+355,2,Bezons,95,149,2,5.0
+356,1,Issy-les-Moulineaux,92,133,2,4.5
+357,1,Villejuif,94,41,1,4.5
+358,2,Gennevilliers,92,90,3,4.5
+359,1,Créteil,94,77,2,4.0
+360,2,Paray-Vieille-Poste,91,62,2,5.0
+361,2,Levallois-Perret,92,132,3,4.5
+362,2,Courbevoie,92,191,6,4.5
+363,2,Sèvres,92,90,2,4.5
+364,2,Orly,94,178,2,4.5
+365,2,Palaiseau,91,29,1,4.5
+366,2,Argenteuil,95,90,2,5.0
+367,1,Massy,91,120,3,4.0
+368,1,Stains,93,75,2,4.5
+369,2,Jouy-en-Josas,78,83,3,4.5
+370,2,Vitry-sur-Seine,94,119,2,4.0
+371,1,Créteil,94,103,2,5.0
+372,2,Vitry-sur-Seine,94,215,4,4.0
+373,1,Châtenay-Malabry,92,63,2,5.0
+374,1,Nanterre,92,149,2,5.0
+375,1,Choisy-le-Roi,94,79,2,4.5
+376,1,Villejuif,94,38,1,4.5
+377,1,Maisons-Alfort,94,121,2,5.0
+378,2,Bezons,95,57,1,4.5
+379,1,Villejuif,94,38,2,4.0
+380,2,Villeneuve-le-Roi,94,121,2,4.5
+381,2,Saclay,91,58,1,5.0
+382,2,Le Kremlin-Bicêtre,94,130,3,5.0
+383,2,Houilles,78,93,3,5.0
+384,1,Courbevoie,92,127,2,4.5
+385,1,Nanterre,92,98,2,5.0
+386,1,Chaville,92,81,1,4.5
+387,2,Villecresnes,94,47,4,5.0
+388,2,Argenteuil,95,135,2,5.0
+389,1,Villejuif,94,40,1,5.0
+390,2,Chilly-Mazarin,91,80,2,4.5
+391,1,Villejuif,94,38,1,4.5
+392,2,Villepinte,93,79,2,5.0
+393,2,La Courneuve,93,54,1,5.0
+394,1,Villejuif,94,36,1,4.5
+395,2,Aulnay-sous-Bois,93,85,2,4.5
+396,2,Pantin,93,107,2,4.5
+397,1,Fontenay-aux-Roses,92,68,2,5.0
+398,1,Issy-les-Moulineaux,92,128,2,4.5
+399,1,Gennevilliers,92,73,2,5.0
+400,1,Paris 19e Arrondissement,75,49,1,4.0
+401,1,Le Pré-Saint-Gervais,93,135,2,4.0
+402,2,Enghien-les-Bains,95,58,2,4.5
+403,1,Rueil-Malmaison,92,73,2,5.0
+404,1,Maisons-Alfort,94,125,2,5.0
+405,1,Montreuil,93,74,2,5.0
+406,2,Vincennes,94,341,9,5.0
+407,1,Paris 16e Arrondissement,75,133,2,4.5
+408,1,Gentilly,94,71,1,4.5
+409,2,Argenteuil,95,51,1,4.5
+410,1,Courbevoie,92,98,2,5.0
+411,1,Aubervilliers,93,80,4,4.5
+412,1,Paris 19e Arrondissement,75,46,1,4.0
+413,1,Paris 15e Arrondissement,75,98,2,5.0
+414,1,Asnières-sur-Seine,92,118,2,4.0
+415,1,Villejuif,94,50,1,5.0
+416,1,Courbevoie,92,102,1,5.0
+417,1,Paris 19e Arrondissement,75,46,1,4.0
+418,1,Vélizy-Villacoublay,78,83,2,4.5
+419,1,Créteil,94,42,3,5.0
+420,2,Vitry-sur-Seine,94,51,1,4.5
+421,2,Aulnay-sous-Bois,93,66,2,5.0
+422,1,Gentilly,94,61,1,4.5
+423,1,Neuilly-Plaisance,93,108,2,4.5
+424,2,Arcueil,94,94,3,5.0
+425,1,Maisons-Alfort,94,49,1,5.0
+426,1,Saint-Ouen-sur-Seine,93,109,2,5.0
+427,1,Bois-Colombes,92,119,2,4.5
+428,1,Paris 19e Arrondissement,75,121,1,4.5
+429,1,Antony,92,98,2,4.5
+430,1,Tremblay-en-France,93,62,1,5.0
+431,1,Paris 19e Arrondissement,75,51,1,5.0
+432,2,Aulnay-sous-Bois,93,51,1,5.0
+433,1,Clichy,92,76,1,4.5
+434,2,Paris 17e Arrondissement,75,147,3,4.5
+435,1,Paris 13e Arrondissement,75,140,2,5.0
+436,1,Paris 12e Arrondissement,75,80,1,5.0
+437,1,Montrouge,92,73,2,5.0
+438,1,Paris 12e Arrondissement,75,80,1,4.5
+439,1,Paris 10e Arrondissement,75,67,1,4.5
+440,1,Paris 15e Arrondissement,75,107,3,5.0
+441,1,Paris 15e Arrondissement,75,85,2,5.0
+442,2,Saint-Denis,93,45,1,4.5
+443,1,Nanterre,92,102,2,4.5
+444,1,Paris 10e Arrondissement,75,63,1,4.5
+445,1,Vincennes,94,90,1,4.5
+446,2,Paris 16e Arrondissement,75,181,2,4.5
+447,1,Boulogne-Billancourt,92,89,2,4.5
+448,1,Paris 19e Arrondissement,75,124,2,4.5
+449,1,Saint-Ouen-sur-Seine,93,43,2,5.0
+450,1,Paris 15e Arrondissement,75,105,1,5.0
+451,2,Paris 17e Arrondissement,75,128,1,4.5
+452,1,Asnières-sur-Seine,92,103,1,4.5
+453,1,Paris 15e Arrondissement,75,65,1,4.5
+454,1,Paris 18e Arrondissement,75,135,2,4.5
+455,2,Paris 2e Arrondissement,75,174,2,4.5
+456,1,Paris 9e Arrondissement,75,132,1,4.0
+457,1,Paris 8e Arrondissement,75,132,2,4.5
+458,1,Paris 18e Arrondissement,75,135,2,4.5
+459,2,Paris 10e Arrondissement,75,116,1,4.5
+460,1,Paris 2e Arrondissement,75,169,2,5.0
+461,1,Paris 15e Arrondissement,75,130,2,4.0
+462,1,Paris 15e Arrondissement,75,65,1,5.0
+463,1,Paris 10e Arrondissement,75,134,2,5.0
+464,1,Pantin,93,50,1,5.0
+465,1,Paris 16e Arrondissement,75,95,1,4.5
+466,1,Paris 14e Arrondissement,75,109,1,4.5
+467,1,Paris 17e Arrondissement,75,132,2,5.0
+468,1,Paris 18e Arrondissement,75,135,1,4.5
+469,1,Paris 9e Arrondissement,75,123,1,5.0
+470,1,Paris 9e Arrondissement,75,134,1,5.0
+471,1,Paris 9e Arrondissement,75,130,1,5.0
+472,1,Paris 9e Arrondissement,75,173,1,5.0
+473,1,Paris 9e Arrondissement,75,145,2,4.5
+474,1,Paris 8e Arrondissement,75,175,1,5.0
+475,1,Paris 9e Arrondissement,75,142,1,5.0
+476,1,Paris 8e Arrondissement,75,217,2,5.0
+477,1,Paris 15e Arrondissement,75,162,1,5.0
+478,2,Paris 2e Arrondissement,75,203,2,4.5
+479,1,Paris 11e Arrondissement,75,213,2,4.5
+480,1,Paris 9e Arrondissement,75,137,2,5.0
+481,1,Paris 9e Arrondissement,75,226,2,4.5
+482,1,Paris 15e Arrondissement,75,232,2,5.0
+483,1,Paris 4e Arrondissement,75,226,1,4.5
+484,1,Paris 8e Arrondissement,75,240,2,4.5
+485,1,Paris 1er Arrondissement,75,204,2,5.0
+486,1,Paris 2e Arrondissement,75,199,2,4.0
+487,1,Paris 15e Arrondissement,75,175,2,4.5
+488,1,Paris 16e Arrondissement,75,237,2,5.0
+489,1,Paris 15e Arrondissement,75,162,2,4.5
+490,1,Paris 11e Arrondissement,75,246,2,4.5
+491,1,Paris 8e Arrondissement,75,149,2,4.5
+492,1,Paris 9e Arrondissement,75,184,2,4.5
+493,1,Paris 10e Arrondissement,75,179,1,4.5
+494,1,Paris 15e Arrondissement,75,143,1,4.5
+495,1,Paris 10e Arrondissement,75,190,2,4.5
+496,1,Paris 13e Arrondissement,75,162,2,4.5
+497,1,Paris 17e Arrondissement,75,232,2,4.5
+498,1,Paris 1er Arrondissement,75,247,2,4.5
+499,1,Paris 9e Arrondissement,75,207,2,5.0
+500,2,Paris 3e Arrondissement,75,229,2,4.0
+501,1,Paris 6e Arrondissement,75,162,1,4.5
+502,1,Paris 15e Arrondissement,75,197,2,4.5
+503,1,Paris 17e Arrondissement,75,185,2,4.5
+504,1,Paris 17e Arrondissement,75,223,2,4.5
+505,1,Paris 18e Arrondissement,75,157,1,4.0
+506,1,Paris 12e Arrondissement,75,223,2,4.5
+507,1,Paris 18e Arrondissement,75,223,1,4.5
+508,1,Paris 14e Arrondissement,75,209,2,4.5
+509,1,Paris 14e Arrondissement,75,140,1,4.5
+510,2,Paris 3e Arrondissement,75,218,3,3.5
+511,1,Paris 13e Arrondissement,75,154,2,4.5
+512,1,Paris 9e Arrondissement,75,188,2,5.0
+513,1,Paris 13e Arrondissement,75,218,1,4.5
+514,1,Issy-les-Moulineaux,92,155,1,5.0
+515,1,Paris 9e Arrondissement,75,196,2,4.5
+516,1,Paris 10e Arrondissement,75,205,2,4.5
+517,1,Paris 9e Arrondissement,75,233,2,4.5
+518,1,Puteaux,92,160,2,4.5
+519,1,Paris 10e Arrondissement,75,168,3,4.0
+520,1,Paris 19e Arrondissement,75,181,1,4.5
+521,1,Paris 11e Arrondissement,75,227,2,4.5
+522,1,Paris 11e Arrondissement,75,256,2,4.5
+523,1,Paris 15e Arrondissement,75,197,2,4.5
+524,1,Paris 8e Arrondissement,75,169,1,4.5
+525,1,Paris 15e Arrondissement,75,171,2,4.5
+526,1,Neuilly-sur-Seine,92,178,2,4.5
+527,1,Paris 18e Arrondissement,75,192,2,4.5
+528,1,Paris 12e Arrondissement,75,257,2,5.0
+529,1,Paris 14e Arrondissement,75,185,2,5.0
+530,1,Ivry-sur-Seine,94,218,2,5.0
+531,1,Paris 18e Arrondissement,75,232,4,4.0
+532,1,Paris 17e Arrondissement,75,204,2,4.5
+533,1,Paris 16e Arrondissement,75,156,1,4.5
+534,1,Paris 11e Arrondissement,75,226,2,4.5
+535,1,Paris 20e Arrondissement,75,223,3,4.5
+536,1,Paris 20e Arrondissement,75,202,2,4.5
+537,1,Paris 9e Arrondissement,75,196,2,4.5
+538,1,Paris 14e Arrondissement,75,211,2,4.5
+539,1,Paris 17e Arrondissement,75,148,2,4.5
+540,2,Paris 8e Arrondissement,75,217,2,3.5
+541,1,Paris 15e Arrondissement,75,190,2,3.5
+542,1,Paris 14e Arrondissement,75,233,2,4.5
+543,1,Puteaux,92,195,2,4.5
+544,1,Paris 15e Arrondissement,75,197,2,4.5
+545,1,Gentilly,94,146,2,4.5
+546,2,Saint-Ouen-sur-Seine,93,341,4,5.0
+547,1,Paris 9e Arrondissement,75,228,2,4.5
+548,1,Paris 18e Arrondissement,75,178,2,4.0
+549,1,Paris 14e Arrondissement,75,190,2,4.5
+550,1,Saint-Ouen-sur-Seine,93,140,2,4.5
+551,1,Paris 20e Arrondissement,75,249,4,4.5
+552,1,Paris 18e Arrondissement,75,197,2,4.0
+553,1,Paris 16e Arrondissement,75,247,1,4.5
+554,1,Paris 4e Arrondissement,75,238,2,2.5
+555,1,Paris 17e Arrondissement,75,251,2,4.5
+556,1,Paris 13e Arrondissement,75,231,3,4.5
+557,1,Issy-les-Moulineaux,92,158,2,4.5
+558,1,Paris 16e Arrondissement,75,247,2,4.0
+559,1,Paris 17e Arrondissement,75,224,2,4.5
+560,2,Paris 18e Arrondissement,75,249,4,4.5
+561,1,Paris 13e Arrondissement,75,154,1,4.5
+562,1,Paris 10e Arrondissement,75,258,2,4.0
+563,1,Paris 9e Arrondissement,75,216,2,4.5
+564,1,Paris 14e Arrondissement,75,158,2,4.5
+565,1,Paris 12e Arrondissement,75,205,2,4.5
+566,1,Paris 13e Arrondissement,75,173,2,4.0
+567,1,Paris 9e Arrondissement,75,188,1,4.0
+568,1,Paris 17e Arrondissement,75,229,2,5.0
+569,2,Paris 17e Arrondissement,75,244,4,5.0
+570,1,Paris 9e Arrondissement,75,164,1,4.5
+571,1,Paris 9e Arrondissement,75,177,3,4.5
+572,1,Clichy,92,179,2,4.5
+573,2,Paris 14e Arrondissement,75,249,5,4.5
+574,1,Paris 9e Arrondissement,75,218,2,4.5
+575,1,Paris 14e Arrondissement,75,222,2,4.5
+576,1,Paris 14e Arrondissement,75,157,2,4.5
+577,1,Paris 15e Arrondissement,75,205,2,4.0
+578,1,Paris 17e Arrondissement,75,240,2,4.5
+579,1,Paris 12e Arrondissement,75,156,2,4.0
+580,1,Saint-Cloud,92,209,2,4.5
+581,2,Paris 3e Arrondissement,75,218,2,4.0
+582,1,Puteaux,92,151,1,4.5
+583,2,Paris 1er Arrondissement,75,283,2,5.0
+584,1,Paris 14e Arrondissement,75,175,2,4.5
+585,1,Paris 17e Arrondissement,75,153,2,4.5
+586,1,Paris 11e Arrondissement,75,197,2,4.5
+587,1,Paris 8e Arrondissement,75,147,2,4.5
+588,1,Paris 9e Arrondissement,75,259,2,4.5
+589,1,Paris 9e Arrondissement,75,220,2,5.0
+590,1,Saint-Cloud,92,189,2,5.0
+591,2,Maisons-Alfort,94,253,2,5.0
+592,1,Paris 15e Arrondissement,75,232,2,4.5
+593,1,Paris 9e Arrondissement,75,137,2,4.0
+594,1,Paris 18e Arrondissement,75,197,2,5.0
+595,1,Paris 15e Arrondissement,75,197,2,5.0
+596,1,Paris 8e Arrondissement,75,240,2,5.0
+597,1,Paris 14e Arrondissement,75,172,2,4.5
+598,1,Paris 20e Arrondissement,75,186,2,4.5
+599,1,Clichy,92,139,2,4.5
+600,1,Paris 17e Arrondissement,75,205,2,4.5
+601,1,Paris 9e Arrondissement,75,205,1,4.5
+602,1,Paris 20e Arrondissement,75,196,2,4.5
+603,1,Paris 10e Arrondissement,75,227,2,4.0
+604,1,Paris 11e Arrondissement,75,211,2,4.0
+605,2,Malakoff,92,142,2,4.5
+606,1,Paris 11e Arrondissement,75,247,2,4.5
+607,1,Paris 15e Arrondissement,75,201,3,4.5
+608,1,Paris 14e Arrondissement,75,223,2,4.0
+609,1,Paris 6e Arrondissement,75,202,2,4.5
+610,1,Paris 15e Arrondissement,75,216,2,4.5
+611,1,Paris 17e Arrondissement,75,243,2,4.5
+612,1,Paris 17e Arrondissement,75,184,2,4.5
+613,1,Paris 9e Arrondissement,75,169,2,5.0
+614,1,Paris 9e Arrondissement,75,163,2,4.5
+615,1,Paris 9e Arrondissement,75,234,2,4.5
+616,1,Paris 6e Arrondissement,75,205,2,4.0
+617,1,Paris 15e Arrondissement,75,190,2,4.5
+618,1,Paris 9e Arrondissement,75,174,1,4.0
+619,1,Paris 8e Arrondissement,75,217,2,4.5
+620,1,Paris 17e Arrondissement,75,218,2,4.5
+621,2,Boulogne-Billancourt,92,177,2,4.5
+622,1,Paris 8e Arrondissement,75,247,2,4.5
+623,1,Paris 17e Arrondissement,75,233,2,4.5
+624,1,Paris 2e Arrondissement,75,228,2,4.5
+625,1,Paris 9e Arrondissement,75,204,2,5.0
+626,1,Paris 20e Arrondissement,75,212,2,4.5
+627,1,Paris 16e Arrondissement,75,252,2,5.0
+628,2,Paris 15e Arrondissement,75,249,1,5.0
+629,1,Paris 12e Arrondissement,75,184,2,4.5
+630,1,Paris 8e Arrondissement,75,149,2,4.5
+631,1,Paris 9e Arrondissement,75,137,2,5.0
+632,1,Paris 18e Arrondissement,75,207,2,4.0
+633,1,Paris 14e Arrondissement,75,151,2,4.5
+634,1,Paris 9e Arrondissement,75,237,2,4.5
+635,1,Paris 18e Arrondissement,75,192,2,4.5
+636,1,Paris 10e Arrondissement,75,202,2,4.5
+637,2,Paris 10e Arrondissement,75,248,3,4.5
+638,1,Paris 15e Arrondissement,75,176,2,4.5
+639,2,Paris 13e Arrondissement,75,143,1,4.5
+640,1,Paris 10e Arrondissement,75,238,1,4.5
+641,1,Paris 9e Arrondissement,75,253,2,4.5
+642,1,Paris 9e Arrondissement,75,164,1,4.5
+643,1,Paris 15e Arrondissement,75,228,2,5.0
+644,2,Paris 9e Arrondissement,75,267,2,4.5
+645,1,Paris 9e Arrondissement,75,204,1,4.5
+646,1,Paris 6e Arrondissement,75,179,1,4.5
+647,1,Paris 12e Arrondissement,75,341,2,4.5
+648,1,Paris 10e Arrondissement,75,231,1,4.5
+649,1,Paris 2e Arrondissement,75,209,2,4.5
+650,1,Paris 5e Arrondissement,75,172,1,4.5
+651,1,Paris 9e Arrondissement,75,178,2,5.0
+652,1,Paris 6e Arrondissement,75,179,1,4.5
+653,1,Paris 3e Arrondissement,75,256,2,4.5
+654,1,Paris 9e Arrondissement,75,223,2,4.5
+655,1,Paris 9e Arrondissement,75,205,3,5.0
+656,1,Paris 9e Arrondissement,75,191,2,5.0
+657,1,Paris 9e Arrondissement,75,204,2,4.5
+658,1,Paris 15e Arrondissement,75,151,2,4.5
+659,1,Paris 15e Arrondissement,75,165,2,4.5
+660,1,Paris 8e Arrondissement,75,194,3,5.0
+661,1,Paris 2e Arrondissement,75,209,2,5.0
+662,1,Paris 2e Arrondissement,75,149,2,5.0
+663,1,Paris 17e Arrondissement,75,196,2,4.5
+664,1,Paris 9e Arrondissement,75,145,2,5.0
+665,1,Paris 5e Arrondissement,75,229,2,4.5
+666,1,Paris 15e Arrondissement,75,194,2,4.5
+667,1,Paris 9e Arrondissement,75,188,3,5.0
+668,1,Paris 9e Arrondissement,75,158,2,4.5
+669,1,Paris 15e Arrondissement,75,202,1,5.0
+670,1,Paris 8e Arrondissement,75,195,1,5.0
+671,1,Paris 8e Arrondissement,75,217,2,5.0
+672,1,Paris 9e Arrondissement,75,198,2,4.5
+673,1,Paris 8e Arrondissement,75,151,2,5.0
+674,1,Paris 9e Arrondissement,75,522,4,5.0
+675,1,Paris 8e Arrondissement,75,194,2,5.0
+676,1,Paris 9e Arrondissement,75,149,2,5.0
+677,1,Paris 3e Arrondissement,75,387,2,4.5
+678,1,Paris 17e Arrondissement,75,461,2,4.5
+679,1,Paris 12e Arrondissement,75,430,2,4.5
+680,1,Paris 7e Arrondissement,75,356,2,4.5
+681,1,Paris 16e Arrondissement,75,364,2,4.5
+682,1,Paris 9e Arrondissement,75,465,4,3.5
+683,1,Paris 6e Arrondissement,75,393,2,4.5
+684,1,Paris 1er Arrondissement,75,402,2,4.5
+685,1,Paris 7e Arrondissement,75,405,2,5.0
+686,1,Paris 9e Arrondissement,75,341,2,5.0
+687,1,Paris 8e Arrondissement,75,135,1,5.0
+688,1,Nanterre,92,70,1,5.0
+689,1,Villejuif,94,42,1,4.5
+690,2,Les Lilas,93,204,3,4.5
+691,1,Bonneuil-sur-Marne,94,40,2,4.5
+692,1,Bures-sur-Yvette,91,84,2,4.5
+693,2,Longjumeau,91,102,2,4.5
+694,2,Alfortville,94,94,2,5.0
+695,1,Paris 8e Arrondissement,75,126,1,4.5
+696,1,Paris 5e Arrondissement,75,89,1,4.5
+697,1,Paris 8e Arrondissement,75,118,1,5.0
+698,1,Paris 9e Arrondissement,75,213,1,4.5
+699,1,Paris 15e Arrondissement,75,198,2,5.0
+700,1,Paris 10e Arrondissement,75,258,3,4.5
+701,1,Paris 9e Arrondissement,75,188,2,4.5
+702,1,Boulogne-Billancourt,92,149,2,4.5
+703,1,Paris 9e Arrondissement,75,233,2,5.0
+704,1,Paris 9e Arrondissement,75,184,1,5.0
+705,2,Montmorency,95,89,2,4.5
+706,1,Montreuil,93,90,2,4.5
+707,2,Paris 2e Arrondissement,75,123,2,4.5
